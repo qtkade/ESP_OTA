@@ -71,7 +71,7 @@ http://x.x.x.x:3000/...
 
 ## ویدیوی آموزشی
 
-
+[Watch On YouTube](https://www.youtube.com/watch?v=vYtrcqs-Jms)
 ---
 
 ## مشارکت در پروژه
