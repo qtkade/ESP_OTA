@@ -71,7 +71,7 @@ http://x.x.x.x:3000/...
 
 ## ویدیوی آموزشی
 
-[Watch On YouTube](https://www.youtube.com/watch?v=vYtrcqs-Jms)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vYtrcqs-Jms" frameborder="0" allowfullscreen></iframe>
 ---
 
 ## مشارکت در پروژه
