@@ -70,7 +70,9 @@ http://x.x.x.x:3000/...
 ---
 
 ## ویدیوی آموزشی
+<div align="center">
 [![Watch the video](https://img.youtube.com/vi/vYtrcqs-Jms/0.jpg)](https://www.youtube.com/watch?v=vYtrcqs-Jms)
+   </div>
 ---
 
 ## مشارکت در پروژه
