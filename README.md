@@ -70,8 +70,7 @@ http://x.x.x.x:3000/...
 ---
 
 ## ویدیوی آموزشی
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vYtrcqs-Jms" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/vYtrcqs-Jms/0.jpg)](https://www.youtube.com/watch?v=vYtrcqs-Jms)
 ---
 
 ## مشارکت در پروژه
